@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <HTTP>What is a client-server architecture</HTTP>
+  <HTTP>HTTP Methods of requests to the server</HTTP>
+  <HTTP>HTTP server response codes</HTTP>
+  <HTTP>Structures of HTTP requests and responses</HTTP>
+  <VPN>How it works, why you need it, how to use it, tool options</VPN>
+  <Linux>Command line (terminal)</Linux>
+  <SQL>Create, Delete, Drop, Insert Into, Select, From, Where, Join</SQL>
+  <Basic_theory>bug reports, documentation, types,methods</Basic_theory>
+  <API_testing>Postman</API_testing>
+  <Dev_Tools_of_web_browsers>Google Chrome, FireFox</Dev_Tools_of_web_browsers>
+  <Mobile_testing>Feature iOS, Android, guidelines</Mobile_testing>
+  <Mobile_testing>Building iOS applications on XCode</Mobile_testing>
+  <Mobile_testing>Building Android applications on Android Studio</Mobile_testing>
+  <Mobile_testing>ADB</Mobile_testing>
+  <Load_testing>Jmeter</Load_testing>
+</root>
