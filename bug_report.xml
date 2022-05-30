@@ -1,1 +1,20 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bugReport>
+  <id>1</id>
+  <Severity>High</Severity>
+  <Severity>Low</Severity>
+  <Severity>Medium</Severity>
+  <Priority>High</Priority>
+  <Priority>Low</Priority>
+  <Priority>Medium</Priority>
+  <Status>New</Status>
+  <Status>Open</Status>
+  <Status>Active</Status>
+  <Enviroment>Windows 10</Enviroment>
+  <Description>Aplication crashes</Description>
+  <Bug_Name>New name</Bug_Name>
+  <Reported_by>Name</Reported_by>
+  <Reported_on>Date</Reported_on>
+  <Steps_to_Reproduce>Steps to reproduce</Steps_to_Reproduce>
+  <Expected_Result>Expected result</Expected_Result>
+</bugReport>
